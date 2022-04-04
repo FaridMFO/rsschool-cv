@@ -7,6 +7,7 @@ This field of activity will give me a new breath of fresh air and help me depend
 ```  slides.forEach((slide) => {
         slide.classList.remove('active');
     });
-};``
+};```
 ###No experience, only small practical work.
-###Self-learning through YouTube
+###Self-learning through YouTube.
+###Level A-1.
